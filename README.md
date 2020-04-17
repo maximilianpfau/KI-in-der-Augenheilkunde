@@ -24,11 +24,10 @@ Tjebo F.C. Heeren,7  Karsten Kortüm,9,10  Sandrine H. Künzel,2  Philipp 
 14.	Department of Ophthalmology, Westmead Hospital, University of Sydney, Sydney, Australia
 
 
-#### *Corresponding author
-Dr. med. Maximilian Pfau
-Department of Biomedical Data Science, Stanford University
-Medical School Office Building (MSOB)
-1265 Welch Road
-Stanford, CA 94305-5479, USA
-
+#### *Corresponding author  
+Dr. med. Maximilian Pfau  
+Department of Biomedical Data Science, Stanford University  
+Medical School Office Building (MSOB)  
+1265 Welch Road  
+Stanford, CA 94305-5479, USA  
 Mail: maximilian.pfau@ukbonn.de
