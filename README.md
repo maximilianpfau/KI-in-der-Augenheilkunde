@@ -3,7 +3,6 @@
 This repository contains the source data and code for the analyses of the following peer-reviewed manuscript published in "Der Ophthalmologe" (journal of the German Ophthalmological Society [DOG]).
 
 #### Künstliche Intelligenz in der Augenheilkunde: Leitfaden für Ärzte zur kritischen Bewertung von Studien
-
 #### Artificial intelligence in ophthalmology: Guideline for physicians for the critical evaluation of studies
 
 _Maximilian Pfau,1,2,*,  Guenther Walther,3  Leon von der Emde,2  Philipp Berens,4,5  Livia Faes,6,7 Monika Fleckenstein,8
