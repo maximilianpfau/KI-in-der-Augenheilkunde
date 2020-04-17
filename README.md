@@ -5,7 +5,7 @@ This repository contains the source data and code for the analyses of the follow
 #### Künstliche Intelligenz in der Augenheilkunde: Leitfaden für Ärzte zur kritischen Bewertung von Studien
 #### Artificial intelligence in ophthalmology: Guideline for physicians for the critical evaluation of studies
 
-_Maximilian Pfau,1,2,*,  Guenther Walther,3  Leon von der Emde,2  Philipp Berens,4,5  Livia Faes,6,7 Monika Fleckenstein,8
+_Maximilian Pfau,1,2,*  Guenther Walther,3  Leon von der Emde,2  Philipp Berens,4,5  Livia Faes,6,7 Monika Fleckenstein,8
 Tjebo F.C. Heeren,7  Karsten Kortüm,9,10  Sandrine H. Künzel,2  Philipp L. Müller,2,4  Peter M. Maloca,7,11,12  Sebastian M. Waldstein,13,14  Maximilian W.M. Wintergerst,2 Steffen Schmitz-Valckenberg,2,8  Robert P. Finger,2  Frank G. Holz2_
 
 1.	Department of Biomedical Data Science, Stanford University, Stanford, USA
@@ -22,3 +22,13 @@ Tjebo F.C. Heeren,7  Karsten Kortüm,9,10  Sandrine H. Künzel,2  Philipp 
 12.	OCTlab, Universitätsspital Basel, Basel, Schweiz
 13.	Univ.-Klinik für Augenheilkunde und Optometrie, Medizinische Universität Wien, Wien, Österreich
 14.	Department of Ophthalmology, Westmead Hospital, University of Sydney, Sydney, Australia
+
+
+####*Corresponding author
+Dr. med. Maximilian Pfau
+Department of Biomedical Data Science, Stanford University
+Medical School Office Building (MSOB)
+1265 Welch Road
+Stanford, CA 94305-5479, USA
+
+Mail: maximilian.pfau@ukbonn.de
