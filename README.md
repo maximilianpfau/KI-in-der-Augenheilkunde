@@ -5,7 +5,7 @@ This repository contains the source data and code for the analyses of the follow
 #### Künstliche Intelligenz in der Augenheilkunde: Leitfaden für Ärzte zur kritischen Bewertung von Studien
 #### Artificial intelligence in ophthalmology: Guideline for physicians for the critical evaluation of studies
 
-_Maximilian&nbsp;Pfau,1,2,* Guenther&nbsp;Walther,3 Leon&nbsp;von&nbsp;der&nbsp;Emde,2 Philipp&nbsp;Berens,4,5 Livia&nbsp;Faes,6,7 Monika&nbsp;Fleckenstein,8 Tjebo&nbsp;F.C.&nbsp;Heeren,7 Karsten&nbsp;Kortüm,9,10 Sandrine&nbsp;H.&nbsp;Künzel,2 Philipp&nbsp;L.&nbsp;Müller,2,4 Peter&nbsp;M.&nbsp;Maloca,7,11,12 Sebastian&nbsp;M.&nbsp;Waldstein,13,14 Maximilian&nbsp;W.M.&nbsp;Wintergerst,2 Steffen&nbsp;Schmitz-Valckenberg,2,8 Robert&nbsp;P.&nbsp;Finger,2 Frank&nbsp;G.&nbsp;Holz2_
+_Maximilian&nbsp;Pfau,<sup>1,2,*</sup> Guenther&nbsp;Walther,<sup>3</sup> Leon&nbsp;von&nbsp;der&nbsp;Emde,<sup>2</sup> Philipp&nbsp;Berens,<sup>4,5</sup> Livia&nbsp;Faes,<sup>6,7</sup> Monika&nbsp;Fleckenstein,<sup>8</sup> Tjebo&nbsp;F.C.&nbsp;Heeren,<sup>7</sup> Karsten&nbsp;Kortüm,<sup>9,10</sup> Sandrine&nbsp;H.&nbsp;Künzel,<sup>2</sup> Philipp&nbsp;L.&nbsp;Müller,<sup>2,4</sup> Peter&nbsp;M.&nbsp;Maloca,<sup>7,11,12</sup> Sebastian&nbsp;M.&nbsp;Waldstein,<sup>13,14</sup> Maximilian&nbsp;W.M.&nbsp;Wintergerst,<sup>2</sup> Steffen&nbsp;Schmitz-Valckenberg,<sup>2,8</sup> Robert&nbsp;P.&nbsp;Finger,<sup>2</sup> Frank&nbsp;G.&nbsp;Holz<sup>2</sup>_
 
 1.	Department of Biomedical Data Science, Stanford University, Stanford, USA
 2.	Universitäts-Augenklinik Bonn, Bonn, Deutschland
