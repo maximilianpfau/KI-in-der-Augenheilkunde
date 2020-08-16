@@ -5,9 +5,8 @@ This repository contains the source data and code for the analyses of the follow
 #### Künstliche Intelligenz in der Augenheilkunde: Leitfaden für Ärzte zur kritischen Bewertung von Studien
 #### Artificial intelligence in ophthalmology: Guideline for physicians for the critical evaluation of studies
 
-_Maximilian Pfau,1,2,*  Guenther Walther,3  Leon von der Emde,2  Philipp Berens,4,5  Livia Faes,6,7  Monika Fleckenstein,8  
-Tjebo F.C. Heeren,7  Karsten Kortüm,9,10  Sandrine H. Künzel,2  Philipp L. Müller,2,4  Peter M. Maloca,7,11,12  
-Sebastian M. Waldstein,13,14  Maximilian W.M. Wintergerst,2 Steffen Schmitz-Valckenberg,2,8  Robert P. Finger,2  Frank G. Holz2_
+_Maximilian&nbsp;Pfau,1,2,*  Guenther&nbsp;Walther,3  Leon&nbsp;von&nbsp;der&nbsp;Emde,2  Philipp&nbsp;Berens,4,5  Livia&nbsp;Faes,6,7  Monika&nbsp;Fleckenstein,8 Tjebo&nbsp;F.C.&nbsp;Heeren,7  Karsten&nbsp;Kortüm,9,10  Sandrine&nbsp;H.&nbsp;Künzel,2  Philipp&nbsp;L.&nbsp;Müller,2,4  Peter&nbsp;M.&nbsp;Maloca,7,11,12  
+Sebastian&nbsp;M.&nbsp;Waldstein,13,14  Maximilian&nbsp;W.M.&nbsp;Wintergerst,2 Steffen&nbsp;Schmitz-Valckenberg,2,8  Robert&nbsp;P.&nbsp;Finger,2  Frank&nbsp;G.&nbsp;Holz2_
 
 1.	Department of Biomedical Data Science, Stanford University, Stanford, USA
 2.	Universitäts-Augenklinik Bonn, Bonn, Deutschland
